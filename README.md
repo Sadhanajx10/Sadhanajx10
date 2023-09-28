@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sadhana Jamkatel
 - 👀 I’m interested in open source projects.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me - sohmasadhana@gmail.com
 
 <!---
